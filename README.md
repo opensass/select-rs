@@ -12,14 +12,14 @@
 [![Join our Discord](https://dcbadge.limes.pink/api/server/b5JbvHW5nv)](https://discord.gg/b5JbvHW5nv)
 
 <!-- absolute url for docs.rs cause assets is excluded from crate -->
-![logo](https://github.com/opensass/select-rs/blob/main/assets/demo.gif)
+![logo](https://raw.githubusercontent.com/opensass/select-rs/refs/heads/main/assets/logo.webp)
 
 </div>
 
 ## 🎬 Demo
 
 <!-- absolute url for docs.rs cause assets is excluded from crate -->
-![select-rs-demo](https://raw.githubusercontent.com/opensass/select-rs/refs/heads/main/assets/logo.webp)
+![select-rs-demo](https://github.com/opensass/select-rs/blob/main/assets/demo.gif)
 
 | Framework | Live Demo |
 | --- | --- |
