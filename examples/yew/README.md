@@ -79,6 +79,6 @@
    ```
 
 1. Uncomment this line:
-   https://github.com/opensass/select-rs/blob/922acb1c2fabe758962a73bd61a272d88f6ac3a9/examples/yew/index.html#L5
+   https://github.com/opensass/select-rs/blob/d2adf8f3d038f609563c3ce65901aae7068486e6/examples/yew/index.html#L5
 
 Navigate to http://localhost:3000 to explore all available components.
