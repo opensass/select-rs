@@ -1,6 +1,6 @@
 [package]
 name = "selectrs"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 rust-version = "1.79"
 description = "🔽 A highly customizable select component for WASM frameworks like Yew, Dioxus, and Leptos."
